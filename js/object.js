@@ -17,3 +17,15 @@ const courses = {
 
 let object = document.querySelector(".object");
 object.innerHTML = courses.created();
+
+/*  There is two way to access object properties or methods
+============================================================
+object.propertyName   : courses.title
+
+object["propertyName"] : courses["title"]
+
+*/
+
+console.log(courses.definition);
+
+console.log(courses["creationDate"]);

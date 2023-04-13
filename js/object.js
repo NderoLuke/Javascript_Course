@@ -1,6 +1,6 @@
 /*
 
-Definotion
+Definition
 **********
 an object is an entity having a state and behavior (properties and methods) 
 

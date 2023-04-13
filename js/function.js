@@ -14,7 +14,6 @@ console.log(Sum(23, 8));  // 28, 8 are function arguments.
 
 /* why function: We use function for code reusage: we can define a function once and reuse it many time. When different argument are provided, different result will be generated  
 
-
 function name with () will call function object while function with () will call function result
 
 

@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 // HTML DOM document object is owner of all other object in your webpage
 
-=======
->>>>>>> dev
-document.querySelector(".h").innerHTML = "Bye";
-=======
 document.querySelector(".h").innerHTML = "Bye";
 
 /* The HTML DOM is a standard for how to get, change, add and delete HTML elements
@@ -19,4 +14,4 @@ let h2 = document.querySelector(".object").appendChild(subTitle);
 
 console.log(subTitle);
 h2.appendChild(subTitle);
->>>>>>> dev
+

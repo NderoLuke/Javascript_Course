@@ -5,9 +5,13 @@ document.querySelector(".h").innerHTML = "Bye";
 in the exapmle above querSelector: is a method/action wheras innerHTML: is a property
 
 */
-let subTitle = document.createElement("h4");
-subTitle.innerHTML = "This is subTitle"
-let h2 = document.querySelector(".object").appendChild(subTitle);
+// let subTitle = document.createElement("h4");
+// subTitle.innerHTML = "This is subTitle"
+// let h2 = document.querySelector(".object").appendChild(subTitle);
 
-console.log(subTitle);
-h2.appendChild(subTitle);
+// console.log(subTitle);
+// h2.appendChild(subTitle);
+
+let yourName = "Nishimwe";
+console.log(yourName + " " + myNamee);
+console.log(yourName[0]);
